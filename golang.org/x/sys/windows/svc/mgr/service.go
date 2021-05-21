@@ -9,8 +9,8 @@ package mgr
 import (
 	"syscall"
 
-	"golang.org/x/sys/windows"
-	"golang.org/x/sys/windows/svc"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/windows"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/windows/svc"
 )
 
 // TODO(brainman): Use EnumDependentServices to enumerate dependent services.

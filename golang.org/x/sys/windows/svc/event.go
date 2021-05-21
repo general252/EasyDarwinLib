@@ -9,7 +9,7 @@ package svc
 import (
 	"errors"
 
-	"golang.org/x/sys/windows"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/windows"
 )
 
 // event represents auto-reset, initially non-signaled Windows event.

@@ -6,7 +6,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/gin-gonic/gin"
+	"github.com/general252/EasyDarwinLib/github.com/gin-gonic/gin"
 )
 
 type ServeFileSystem interface {

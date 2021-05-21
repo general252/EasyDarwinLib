@@ -6,9 +6,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/gin-gonic/gin"
-	"github.com/gorilla/context"
-	"github.com/gorilla/sessions"
+	"github.com/general252/EasyDarwinLib/github.com/gin-gonic/gin"
+	"github.com/general252/EasyDarwinLib/github.com/gorilla/context"
+	"github.com/general252/EasyDarwinLib/github.com/gorilla/sessions"
 )
 
 const (

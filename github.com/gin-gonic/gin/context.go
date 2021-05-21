@@ -17,9 +17,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gin-contrib/sse"
-	"github.com/gin-gonic/gin/binding"
-	"github.com/gin-gonic/gin/render"
+	"github.com/general252/EasyDarwinLib/github.com/gin-contrib/sse"
+	"github.com/general252/EasyDarwinLib/github.com/gin-gonic/gin/binding"
+	"github.com/general252/EasyDarwinLib/github.com/gin-gonic/gin/render"
 )
 
 // Content-Type MIME of the most common data formats.

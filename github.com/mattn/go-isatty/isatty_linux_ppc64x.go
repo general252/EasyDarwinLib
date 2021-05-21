@@ -6,7 +6,7 @@ package isatty
 import (
 	"unsafe"
 
-	syscall "golang.org/x/sys/unix"
+	syscall "github.com/general252/EasyDarwinLib/golang.org/x/sys/unix"
 )
 
 const ioctlReadTermios = syscall.TCGETS

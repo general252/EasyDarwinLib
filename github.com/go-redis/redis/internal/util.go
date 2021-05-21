@@ -1,6 +1,6 @@
 package internal
 
-import "github.com/go-redis/redis/internal/util"
+import "github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/util"
 
 func ToLower(s string) string {
 	if isLower(s) {

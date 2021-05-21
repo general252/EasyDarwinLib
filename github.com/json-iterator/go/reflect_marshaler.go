@@ -3,7 +3,7 @@ package jsoniter
 import (
 	"encoding"
 	"encoding/json"
-	"github.com/modern-go/reflect2"
+	"github.com/general252/EasyDarwinLib/github.com/modern-go/reflect2"
 	"unsafe"
 )
 

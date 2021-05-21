@@ -10,10 +10,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/go-redis/redis/internal"
-	"github.com/go-redis/redis/internal/consistenthash"
-	"github.com/go-redis/redis/internal/hashtag"
-	"github.com/go-redis/redis/internal/pool"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/consistenthash"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/hashtag"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/pool"
 )
 
 const nreplicas = 100

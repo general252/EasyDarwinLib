@@ -5,7 +5,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/go-redis/redis/internal/proto"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/proto"
 )
 
 func IsRetryableError(err error, retryNetError bool) bool {

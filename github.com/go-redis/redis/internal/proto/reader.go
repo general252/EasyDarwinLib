@@ -6,7 +6,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/go-redis/redis/internal/util"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/util"
 )
 
 const bytesAllocLimit = 1024 * 1024 // 1mb

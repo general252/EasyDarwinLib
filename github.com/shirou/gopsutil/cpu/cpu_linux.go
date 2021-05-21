@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/general252/EasyDarwinLib/github.com/shirou/gopsutil/internal/common"
 )
 
 var cpu_tick = float64(100)

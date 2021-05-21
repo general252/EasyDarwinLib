@@ -3,7 +3,7 @@
 package keyboard
 
 import (
-    "golang.org/x/sys/unix"
+    "github.com/general252/EasyDarwinLib/golang.org/x/sys/unix"
 )
 
 const (

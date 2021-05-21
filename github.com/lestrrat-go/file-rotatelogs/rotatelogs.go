@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	strftime "github.com/lestrrat-go/strftime"
-	"github.com/pkg/errors"
+	strftime "github.com/general252/EasyDarwinLib/github.com/lestrrat-go/strftime"
+	"github.com/general252/EasyDarwinLib/github.com/pkg/errors"
 )
 
 func (c clockFn) Now() time.Time {

@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/StackExchange/wmi"
-	"github.com/shirou/gopsutil/internal/common"
-	"golang.org/x/sys/windows"
+	"github.com/general252/EasyDarwinLib/github.com/StackExchange/wmi"
+	"github.com/general252/EasyDarwinLib/github.com/shirou/gopsutil/internal/common"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/windows"
 )
 
 type Win32_Processor struct {

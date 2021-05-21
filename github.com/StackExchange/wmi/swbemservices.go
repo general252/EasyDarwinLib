@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/go-ole/go-ole"
-	"github.com/go-ole/go-ole/oleutil"
+	"github.com/general252/EasyDarwinLib/github.com/go-ole/go-ole"
+	"github.com/general252/EasyDarwinLib/github.com/go-ole/go-ole/oleutil"
 )
 
 // SWbemServices is used to access wmi. See https://msdn.microsoft.com/en-us/library/aa393719(v=vs.85).aspx

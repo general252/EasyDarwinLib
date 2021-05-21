@@ -8,7 +8,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/gin-gonic/gin/binding"
+	"github.com/general252/EasyDarwinLib/github.com/gin-gonic/gin/binding"
 )
 
 const ENV_GIN_MODE = "GIN_MODE"

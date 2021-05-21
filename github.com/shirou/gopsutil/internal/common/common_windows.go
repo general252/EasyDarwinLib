@@ -6,8 +6,8 @@ import (
 	"context"
 	"unsafe"
 
-	"github.com/StackExchange/wmi"
-	"golang.org/x/sys/windows"
+	"github.com/general252/EasyDarwinLib/github.com/StackExchange/wmi"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/windows"
 )
 
 // for double values

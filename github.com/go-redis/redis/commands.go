@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/go-redis/redis/internal"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal"
 )
 
 func readTimeout(timeout time.Duration) time.Duration {

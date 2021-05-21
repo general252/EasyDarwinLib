@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/gorilla/securecookie"
+	"github.com/general252/EasyDarwinLib/github.com/gorilla/securecookie"
 )
 
 // Store is an interface for custom session stores.

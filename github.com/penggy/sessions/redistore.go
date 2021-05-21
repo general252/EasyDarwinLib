@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/go-redis/redis"
-	"github.com/gorilla/securecookie"
-	gsessions "github.com/gorilla/sessions"
-	"github.com/teris-io/shortid"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis"
+	"github.com/general252/EasyDarwinLib/github.com/gorilla/securecookie"
+	gsessions "github.com/general252/EasyDarwinLib/github.com/gorilla/sessions"
+	"github.com/general252/EasyDarwinLib/github.com/teris-io/shortid"
 )
 
 // RediStore stores sessions in a redis backend.

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"unsafe"
 
-	"github.com/modern-go/reflect2"
+	"github.com/general252/EasyDarwinLib/github.com/modern-go/reflect2"
 )
 
 const ptrSize = 32 << uintptr(^uintptr(0)>>63)

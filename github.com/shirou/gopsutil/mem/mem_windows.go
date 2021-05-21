@@ -6,8 +6,8 @@ import (
 	"context"
 	"unsafe"
 
-	"github.com/shirou/gopsutil/internal/common"
-	"golang.org/x/sys/windows"
+	"github.com/general252/EasyDarwinLib/github.com/shirou/gopsutil/internal/common"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/windows"
 )
 
 var (

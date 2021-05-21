@@ -4,7 +4,7 @@ import (
     "syscall"
     "unsafe"
 
-    "golang.org/x/sys/windows"
+    "github.com/general252/EasyDarwinLib/golang.org/x/sys/windows"
 )
 
 const (

@@ -17,10 +17,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/eiannone/keyboard"
-	"github.com/teris-io/shortid"
+	"github.com/general252/EasyDarwinLib/github.com/eiannone/keyboard"
+	"github.com/general252/EasyDarwinLib/github.com/teris-io/shortid"
 
-	"github.com/go-ini/ini"
+	"github.com/general252/EasyDarwinLib/github.com/go-ini/ini"
 )
 
 func LocalIP() string {

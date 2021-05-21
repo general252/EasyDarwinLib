@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pkg/errors"
+	"github.com/general252/EasyDarwinLib/github.com/pkg/errors"
 )
 
 var directives = map[byte]appender{

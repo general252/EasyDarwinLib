@@ -13,11 +13,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/go-redis/redis/internal"
-	"github.com/go-redis/redis/internal/hashtag"
-	"github.com/go-redis/redis/internal/pool"
-	"github.com/go-redis/redis/internal/proto"
-	"github.com/go-redis/redis/internal/singleflight"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/hashtag"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/pool"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/proto"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/singleflight"
 )
 
 var errClusterNoNodes = fmt.Errorf("redis: cluster has no nodes")

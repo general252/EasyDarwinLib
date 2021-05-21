@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"golang.org/x/sys/unix"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/unix"
 )
 
 // VirtualMemory returns VirtualmemoryStat.

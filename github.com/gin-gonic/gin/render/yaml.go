@@ -7,7 +7,7 @@ package render
 import (
 	"net/http"
 
-	"gopkg.in/yaml.v2"
+	"github.com/general252/EasyDarwinLib/gopkg.in/yaml.v2"
 )
 
 type YAML struct {

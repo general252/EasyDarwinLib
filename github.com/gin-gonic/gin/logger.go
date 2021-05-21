@@ -11,7 +11,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/mattn/go-isatty"
+	"github.com/general252/EasyDarwinLib/github.com/mattn/go-isatty"
 )
 
 var (

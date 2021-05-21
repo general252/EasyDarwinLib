@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	rotatelogs "github.com/lestrrat-go/file-rotatelogs"
+	rotatelogs "github.com/general252/EasyDarwinLib/github.com/lestrrat-go/file-rotatelogs"
 )
 
 func Log(msg ...interface{}) {}

@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jinzhu/inflection"
+	"github.com/general252/EasyDarwinLib/github.com/jinzhu/inflection"
 )
 
 // DefaultTableNameHandler default table name handler

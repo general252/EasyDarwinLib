@@ -3,7 +3,7 @@ package mem
 import (
 	"encoding/json"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/general252/EasyDarwinLib/github.com/shirou/gopsutil/internal/common"
 )
 
 var invoke common.Invoker = common.Invoke{}

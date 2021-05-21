@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"golang.org/x/sys/unix"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/unix"
 )
 
 func DoSysctrlWithContext(ctx context.Context, mib string) ([]string, error) {

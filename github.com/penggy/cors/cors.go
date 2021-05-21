@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/general252/EasyDarwinLib/github.com/gin-gonic/gin"
 )
 
 // Config represents all available options for the middleware.

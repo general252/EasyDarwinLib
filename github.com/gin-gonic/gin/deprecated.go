@@ -7,7 +7,7 @@ package gin
 import (
 	"log"
 
-	"github.com/gin-gonic/gin/binding"
+	"github.com/general252/EasyDarwinLib/github.com/gin-gonic/gin/binding"
 )
 
 // BindWith binds the passed struct pointer using the specified binding engine.

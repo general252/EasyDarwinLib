@@ -12,7 +12,7 @@ import (
     "runtime"
     "unsafe"
 
-    "golang.org/x/sys/unix"
+    "github.com/general252/EasyDarwinLib/golang.org/x/sys/unix"
 )
 
 type (

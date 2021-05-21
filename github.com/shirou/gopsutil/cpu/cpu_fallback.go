@@ -5,7 +5,7 @@ package cpu
 import (
 	"context"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/general252/EasyDarwinLib/github.com/shirou/gopsutil/internal/common"
 )
 
 func Times(percpu bool) ([]TimesStat, error) {

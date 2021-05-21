@@ -9,7 +9,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/ugorji/go/codec"
+	"github.com/general252/EasyDarwinLib/github.com/ugorji/go/codec"
 )
 
 type msgpackBinding struct{}

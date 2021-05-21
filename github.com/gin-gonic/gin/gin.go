@@ -11,7 +11,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/gin-gonic/gin/render"
+	"github.com/general252/EasyDarwinLib/github.com/gin-gonic/gin/render"
 )
 
 const (

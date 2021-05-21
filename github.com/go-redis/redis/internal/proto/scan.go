@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/go-redis/redis/internal/util"
+	"github.com/general252/EasyDarwinLib/github.com/go-redis/redis/internal/util"
 )
 
 func Scan(b []byte, v interface{}) error {

@@ -1,7 +1,7 @@
 package reflect2
 
 import (
-	"github.com/modern-go/concurrent"
+	"github.com/general252/EasyDarwinLib/github.com/modern-go/concurrent"
 	"reflect"
 	"unsafe"
 )

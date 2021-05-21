@@ -4,11 +4,11 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gorilla/context"
-	"github.com/gorilla/securecookie"
-	gsessions "github.com/gorilla/sessions"
-	"github.com/jinzhu/gorm"
-	"github.com/teris-io/shortid"
+	gsessions "github.com/general252/EasyDarwinLib/github.com/gorilla/sessions"
+	"github.com/general252/EasyDarwinLib/github.com/jinzhu/gorm"
+	"github.com/general252/EasyDarwinLib/github.com/gorilla/context"
+	"github.com/general252/EasyDarwinLib/github.com/gorilla/securecookie"
+	"github.com/general252/EasyDarwinLib/github.com/teris-io/shortid"
 )
 
 // Options for gormstore

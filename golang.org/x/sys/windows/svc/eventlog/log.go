@@ -12,7 +12,7 @@ import (
 	"errors"
 	"syscall"
 
-	"golang.org/x/sys/windows"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/windows"
 )
 
 // Log provides access to the system log.

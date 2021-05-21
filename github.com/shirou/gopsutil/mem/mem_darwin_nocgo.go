@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"golang.org/x/sys/unix"
+	"github.com/general252/EasyDarwinLib/golang.org/x/sys/unix"
 )
 
 // Runs vm_stat and returns Free and inactive pages

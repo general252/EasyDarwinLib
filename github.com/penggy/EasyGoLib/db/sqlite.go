@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/jinzhu/gorm"
-	_ "github.com/jinzhu/gorm/dialects/sqlite"
-	"github.com/penggy/EasyGoLib/utils"
+	"github.com/general252/EasyDarwinLib/github.com/jinzhu/gorm"
+	_ "github.com/general252/EasyDarwinLib/github.com/jinzhu/gorm/dialects/sqlite"
+	"github.com/general252/EasyDarwinLib/github.com/penggy/EasyGoLib/utils"
 )
 
 type Model struct {
